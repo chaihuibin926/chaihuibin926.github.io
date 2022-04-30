@@ -3,7 +3,9 @@
 :root{
     font-size: 15px;
 }
-
+* {
+    user-select: none;
+}
 body{
     font-family: 'Quicksand' sans-serif;
     margin: 0;
